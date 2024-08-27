@@ -1,0 +1,36 @@
+# Java Related
+target/**
+*.jar
+*.war##
+*.ear
+*.class
+
+#eclipse
+
+*.pydevproject
+.project
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+
+# OS generated files #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Ignore any files in /bin and /obj Folders
+**/bin/*
+**/obj/*
